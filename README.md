@@ -10,10 +10,5 @@ A simple shopping web app made using HTML, CSS, and JavaScript.
 - Cart total calculation
 - Order confirmation
 
-## Tech Used
-- HTML
-- CSS
-- JavaScript
-
 ## Author
 Sidra Shaikh
