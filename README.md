@@ -2,15 +2,18 @@
 
 Instamart Clone is a responsive shopping web application built using **Flutter and Dart**. The project replicates the core functionality of an online grocery platform, allowing users to browse products, search items, and manage their cart seamlessly.
 
-![Screenshot](images/Screenshot%202026-04-13%20214205.png)
 
 ## 🚀 Features
 
 * 🔐 **User Authentication**  
   Simple login interface for user access
 
+  ![Screenshot](images/Screenshot%202026-04-13%20214205.png)
+
 * 🛍️ **Product Listing**  
   Displays products with name, image, and price
+
+  
 
 * 🔎 **Search Functionality**  
   Quickly find products using a dynamic search bar
