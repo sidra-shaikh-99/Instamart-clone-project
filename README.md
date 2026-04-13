@@ -8,11 +8,12 @@ Instamart Clone is a responsive shopping web application built using **Flutter a
 * 🔐 **User Authentication**  
   Simple login interface for user access
 
-  ![Screenshot](image1.jpg)
+![Screenshot](Screenshot/image1.png)
 
 * 🛍️ **Product Listing**  
   Displays products with name, image, and price
-![Screenshot](images/Screenshot%202026-04-13%20214324.png)
+  
+![Screenshot](Screenshot/image2.png)
 
 * 🔎 **Search Functionality**  
   Quickly find products using a dynamic search bar
@@ -22,9 +23,11 @@ Instamart Clone is a responsive shopping web application built using **Flutter a
 
 * 💰 **Cart Total Calculation**  
   Real-time calculation of total price based on selected items
+  ![Screenshot](Screenshot/image3.png)
 
 * ✅ **Order Confirmation**  
   Basic checkout flow with confirmation message
+  ![Screenshot](Screenshot/image4.png)
 
 ## 🧰 Tech Stack
 
