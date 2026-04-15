@@ -1,6 +1,6 @@
 # 🛒 Instamart Clone :
 
-👉 **[Click Here to View Project](https://sidra-instamart-project.netlify.app/)**
+👉 **[Click Here to View Project](https://sidra-instamart-flutter.netlify.app/)**
 
 Instamart Clone is a responsive shopping web application built using **Flutter and Dart**. The project replicates the core functionality of an online grocery platform, allowing users to browse products, search items, and manage their cart seamlessly.
 
